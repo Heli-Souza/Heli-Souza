@@ -2,3 +2,4 @@
 - 👀 I’m interested in aprender programação.
 - 🌱 I’m currently learning Faculdade em Analise e Desenvolvimeto de Sistemas e curso Python
 - 📫 How to reach me whatsapp 11972664783
+ - Trabalho na área de TI como Analista de TI e Suporte a mais de 10 anos, começando a aprender a programar para migrar de área.
